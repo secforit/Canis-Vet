@@ -31,5 +31,7 @@ Thumbs.db
 *.swp
 *.swo
 
+
+
 # Vercel
 .vercel
